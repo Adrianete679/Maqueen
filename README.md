@@ -4,7 +4,7 @@ Hola, soy Adrián y estoy en 3ºESO, estoy en Robótica como optativa, en lugar 
 Este trabajo lo hemos realizado en grupos de 2 o mejor dicho parejas. Esto consistía en: uno de la pareja se encargaba de hacer el código maestro y la otra persona hace el código esclavo. El mestro manda señales de radio a otro grupo y el esclavo las recibia de otro grupo.
 ## Mestro
 El encargado del maestro de un grupo, en este caso Alejandro, se encargaba de mandar mnúmeros de radio al robót del grupo siguiente a nosotros, si nosotros somos el grupo 2 pues al grupo 3. Y el encargado del esclavo del grupo 3, en este caso Ramón, se encargaba de recibir esos números de radio e interpretarlo
-# Vídeo
+# Vídeo Mestro
 ## Esclavo
 El encargado del esclavo de un grupo, en este caso yo, me encargaba de recibir números de radio del maestro del grupo anterior a nosotros, si nosotros somos el grupo 2 pues del maestro del grupo 1, en este caso Sixto. Y yo los recibia y transformaba en dirección en la cual debía ir el robót.
-# Vídeo
+# Vídeo Esclavo
