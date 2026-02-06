@@ -3,8 +3,13 @@ Hola, soy Adrián y estoy en 3ºESO, estoy en Robótica como optativa, en lugar 
 ## Introducción
 Este trabajo lo hemos realizado en grupos de 2 o mejor dicho parejas. Esto consistía en: uno de la pareja se encargaba de hacer el código maestro y la otra persona hace el código esclavo. El mestro manda señales de radio a otro grupo y el esclavo las recibia de otro grupo.
 ## Mestro
-El encargado del maestro de un grupo, en este caso Alejandro, se encargaba de mandar mnúmeros de radio al robót del grupo siguiente a nosotros, si nosotros somos el grupo 2 pues al grupo 3. Y el encargado del esclavo del grupo 3, en este caso Ramón, se encargaba de recibir esos números de radio e interpretarlo
- ![](https://github.com/Adrianete679/Maqueen/blob/d3c05f96f633a0103dd082368328dd5ca7ddaccc/Esclavo.PNG)
+El encargado del maestro de un grupo, en este caso Alejandro, se encargaba de mandar mnúmeros de radio al robot del grupo siguiente a nosotros, si nosotros somos el grupo 2 pues al grupo 3. Y el encargado del esclavo del grupo 3, en este caso Ramón, se encargaba de recibir esos números de radio e interpretarlo
+[![](https://github.com/Adrianete679/Maqueen/blob/def1be0836c6dd88621d0c1243d15d2f69202c67/op.PNG) 
+[![](https://img.youtube.com/vi/oegCsJTke2k/0.jpg)](https://www.youtube.com/watch?v=oegCsJTke2k)
 ## Esclavo
-El encargado del esclavo de un grupo, en este caso yo, me encargaba de recibir números de radio del maestro del grupo anterior a nosotros, si nosotros somos el grupo 2 pues del maestro del grupo 1, en este caso Sixto. Y yo los recibia y transformaba en dirección en la cual debía ir el robót.
-[![](https://github.com/Adrianete679/Maqueen/blob/def1be0836c6dd88621d0c1243d15d2f69202c67/op.PNG)
+El encargado del esclavo de un grupo, en este caso yo, me encargaba de recibir números de radio del maestro del grupo anterior a nosotros, si nosotros somos el grupo 2 pues del maestro del grupo 1, en este caso Sixto. Y yo los recibia y transformaba en dirección en la cual debía ir el robot.
+
+
+
+![](https://github.com/Adrianete679/Maqueen/blob/d3c05f96f633a0103dd082368328dd5ca7ddaccc/Esclavo.PNG) 
+[![](https://img.youtube.com/vi/ZFBLzRx73oY/0.jpg)](https://www.youtube.com/watch?v=ZFBLzRx73oY)
