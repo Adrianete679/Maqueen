@@ -7,4 +7,4 @@ El encargado del maestro de un grupo, en este caso Alejandro, se encargaba de ma
  ![](https://github.com/Adrianete679/Maqueen/blob/d3c05f96f633a0103dd082368328dd5ca7ddaccc/Esclavo.PNG)
 ## Esclavo
 El encargado del esclavo de un grupo, en este caso yo, me encargaba de recibir números de radio del maestro del grupo anterior a nosotros, si nosotros somos el grupo 2 pues del maestro del grupo 1, en este caso Sixto. Y yo los recibia y transformaba en dirección en la cual debía ir el robót.
-[![](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ZFBLzRx73oY) <img src="imagenesdelproyecto/esclavo.png"/>
+[![](https://github.com/Adrianete679/Maqueen/blob/def1be0836c6dd88621d0c1243d15d2f69202c67/op.PNG)
